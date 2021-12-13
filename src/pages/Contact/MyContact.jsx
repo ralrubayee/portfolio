@@ -11,12 +11,15 @@ function MyContact() {
 		<a href="https://github.com/ralrubayee">
 			<img id="linkedin" src={github}/>
 		</a>
-		
-			<h1>615-573-5171</h1>
+
+	
+			<h2>615-573-5171</h2>
+			<h2>Ralrubayee@gmail.com</h2>
+			
 		
 		
 		</>
-	)
+	) 
 }
 
 export default MyContact

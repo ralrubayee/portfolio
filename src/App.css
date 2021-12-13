@@ -5,12 +5,12 @@
 }
 
 .App-header {
-  background-color: var(--black);
+  background-color: #fff;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   padding: 2vmin;
-  font-size: 2.5vmin;
+  font-size: 2vmin;
   color: var(--background);
 }
 
@@ -27,6 +27,14 @@
   margin-bottom: 5vmin;
 }
 #linkedin{
-  width: 200px;
-  height: 50px;
+  width: 150px;
+}
+
+p{
+  margin: 20px;
+  padding: 20px;
+}
+
+#GA{
+  width: 20vmin;
 }
