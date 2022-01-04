@@ -37,4 +37,9 @@ p{
 
 #GA{
   width: 20vmin;
+  margin: 20px 30PX 0 20px;
 }
+.card-title{
+  margin: 5px 30PX 0 20px;
+}
+

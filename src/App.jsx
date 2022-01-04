@@ -5,12 +5,10 @@ import MyContact from './pages/Contact/MyContact'
 import MyAbout from './pages/About/MyAbout'
 import Education from './pages/Education/Education'
 import Projects from './pages/Projects/Projects'
-
+import ProjectDetail from './pages/Projects/ProjectDetail'
 
 
 function App() {
-  const [puppies, setPuppies] = useState([])
-
   return (
     <div className="App">
       <header className="App-header">
