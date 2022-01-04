@@ -91,7 +91,7 @@ h2{
 }
 .card-a{
   width: 80%;
-  background-color: white;
+  background-color: white; 
   display: flex;
   flex-direction: row;
 }
